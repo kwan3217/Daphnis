@@ -1,3 +1,5 @@
+Moved to [GitLab](https://gitlab.com/kwan32171/kwanastro/Daphnis)
+
 # Daphnis
 Daphnis, moon of Saturn that clears the Keeler gap and one of the more scenic
 spots in the entire Solar System.
